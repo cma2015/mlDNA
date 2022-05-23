@@ -26,7 +26,7 @@ ControlExpMat <- as.matrix(sampleData$ControlExpMat)
 SaltExpMat <- as.matrix(sampleData$StressExpMat)
 ```
 
-#### Inferring transcriptional networks from gene expression data
+#### Infer transcriptional networks from gene expression data
 
 ```R
 ##build transcriptional network from the first 1000 genes,
